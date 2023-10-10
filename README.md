@@ -14,7 +14,7 @@
 * [Testing](#testing)
 * [Questions](#questions)
 *[Contact-Me](#contact-me)
-## Instaallation
+## Installation
 
 ## Languages & Dependencies
 

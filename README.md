@@ -5,7 +5,7 @@
 ## Video to deployed application
 
 ## Screenshot
-
+![Alt text](image.png)
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)

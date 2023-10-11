@@ -13,7 +13,7 @@ https://javierburgara.github.io/Model-View-Controller-MVC-Challenge-Tech-Blog/
 * [Questions](#questions)
 *[Contact-Me](#contact-me)
 ## Installation
-to start the server.js, you want to open up your terminal and do a npm command which is npm i. After that you npm start and the website would be launch in your local browser http://localhost:3006/. MaKe sure to use Username: Javier and Password:12345678 to sign in.
+to start the server.js, you want to open up your terminal and do a npm command which is npm i. After that you npm start and the website would be launch in your local browser http://localhost:3006/. Make sure to use Username: Javier and Password:12345678 to sign in.
 ## Languages & Dependencies
 Node.js, Handlebars.js, JavaScript, npm install, npm i express-handlebars, npm i mysql2, npm i sequelize, npm i dotenv, npm i bcrypt, npm i express-session, npm i connect-session-sequelize
 ## Contact-Me

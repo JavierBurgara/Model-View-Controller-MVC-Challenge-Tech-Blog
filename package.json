@@ -1,11 +1,11 @@
 {
-  "name": "Model-View-Controller-MVC-Challenge-Tech-Blog",
+  "name": "model-view-controller-mvc-challenge-tech-blog",
   "version": "1.0.0",
-  "description": "",
+  "description": "Blog where developers can publish their posts and comment on other developers’ posts Uses Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication. Data is stored/retrieved from a MySQL database.\r ## Link to website\r https://javierburgara.github.io/Model-View-Controller-MVC-Challenge-Tech-Blog/\r ## Screenshot\r ![Alt text](image.png)\r ## Table of Contents\r * [Description](#description)\r * [Installation](#installation)\r * [Languages & Dependencies](#languagesanddependencies)\r * [Questions](#questions)\r *[Contact-Me](#contact-me)\r ## Installation\r to start the server.js, you want to open up your terminal and do a npm command which is npm i. After that you npm start and the website would be launch in your local browser http://localhost:3006/. Make sure to use Username: Javier and Password:12345678 to sign in.\r ## Languages & Dependencies\r Node.js, Handlebars.js, JavaScript, npm install, npm i express-handlebars, npm i mysql2, npm i sequelize, npm i dotenv, npm i bcrypt, npm i express-session, npm i connect-session-sequelize\r ## Contact-Me\r   * Name - JavierBurgara\r   * Email - Javierburgara150@yahoo.com\r   * Github - [JavierBurgara](https://github.com/JavierBurgara/)\r ## Questions\r Please send your questions [here](mailto:Javierburgara150@yahoo.com?subject=[GitHub]%20Dev%20Connect) or visit [github/JavierBurgara](https://github.com/JavierBurgara).",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "seed": "node seeds/seed.js",
+    "seed": "node seeds/seeds.js",
     "start": "node server.js"
   },
   "keywords": [],
@@ -20,5 +20,6 @@
     "express-session": "^1.17.1",
     "mysql2": "^2.2.5",
     "sequelize": "^6.3.5"
-  }
+  },
+  "devDependencies": {}
 }

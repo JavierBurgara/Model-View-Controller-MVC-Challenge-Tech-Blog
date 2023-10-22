@@ -3,7 +3,7 @@
 ## Description
 Blog where developers can publish their posts and comment on other developers’ posts Uses Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication. Data is stored/retrieved from a MySQL database.
 ## Link to website
-https://javierburgara.github.io/Model-View-Controller-MVC-Challenge-Tech-Blog/
+https://obscure-mountain-13508-1018714e22e5.herokuapp.com/
 ## Screenshot
 ![Alt text](image.png)
 ## Table of Contents
